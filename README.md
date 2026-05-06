@@ -1,7 +1,7 @@
 # FathomNet Data Transformer
 
 This repository contains a Python command line tool for converting common image
-annotation datasets into a FathomNet-style `metadata.csv` plus the image files
+annotation datasets into a FathomNet compatible `metadata.csv` plus the image files
 needed for review or submission.
 
 This tool is for MBARI researchers and collaborators who have annotated
