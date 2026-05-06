@@ -49,6 +49,7 @@ Claude API so it can suggest a mapping.
 
 ![Preview Report](images/preview_report.png)
 *Figure 2. Preview report.*
+
 Quick Start
 
 Requires Python 3.9 or newer.
