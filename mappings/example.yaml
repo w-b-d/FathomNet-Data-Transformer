@@ -1,0 +1,3 @@
+source_format: coco_json
+concept_aliases:
+  original_name: new_name
